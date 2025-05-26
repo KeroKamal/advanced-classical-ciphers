@@ -1,4 +1,4 @@
-Below is an advanced, in‐depth README (with plenty of emojis!) along with a sample `requirements.txt` file. This README explains the four classical cipher implementations—Caesar, Affine, Rail Fence, and Hill—in detail, describes how to run each one interactively, and highlights design and security considerations. You can copy these files into your GitHub repository.
+This README explains the four classical cipher implementations—Caesar, Affine, Rail Fence, and Hill—in detail, describes how to run each one interactively, and highlights design and security considerations. You can copy these files into your GitHub repository.
 
 ---
 
